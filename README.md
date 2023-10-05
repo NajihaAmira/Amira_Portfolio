@@ -6,3 +6,5 @@ Amira's data science project portfolio
 2) Cleaning the data include removing unnecessary word, replace value and many more
 3) Proceed with lemmatization for the description atttribute
 4) Then, visualize the description attribute
+
+[](https://github.com/NajihaAmira/My_Portfolio_Data_Science/tree/main/images)
