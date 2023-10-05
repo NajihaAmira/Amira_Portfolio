@@ -7,4 +7,4 @@ Amira's data science project portfolio
 3) Proceed with lemmatization for the description atttribute
 4) Then, visualize the description attribute
 
-[](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project1.png)
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project1.png)
