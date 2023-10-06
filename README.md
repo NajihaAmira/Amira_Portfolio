@@ -8,3 +8,13 @@ Amira's data science project portfolio
 4) Then, visualize the description attribute
 
 ![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project1.png)
+
+
+# [Project 2: Prediction Using Decision Tree Regression](https://github.com/NajihaAmira/DecisionTreeRegression)
+1) Read the data that contain 205 data with 25 attributes  
+2) Understand the data before proceed to next process
+3) Proceed with data pre-processing include cleaning the data, replace null value with mean value
+4) Figure out which attributes are highly correlated with the price, Turn out that 9 out of 25 attributes are highly correlated.
+5) Do calculation accucracy for if all feature declare as independent variables and feature that only high correlated as independent variables to see the difference of value accuracy.
+
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project2.png)
