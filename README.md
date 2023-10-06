@@ -1,5 +1,5 @@
 # My_Portfolio_Data_Science
-Amira's data science project portfolio. This is basically my portfolio in general. To explore a specific project in more detail, simply click on the project title (highlighted in blue) to access the code and delve deeper into the details."
+Amira's data science project portfolio. This is basically my portfolio in general. To explore a specific project in more detail, simply click on the project title (highlighted in blue) to access the code and delve deeper into the details.
 
 
 # [Project 1: Top Movies In Malaysia](https://github.com/NajihaAmira/Top-Movies-Malaysia)
