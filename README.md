@@ -18,3 +18,12 @@ Amira's data science project portfolio
 5) Do calculation accucracy for if all feature declare as independent variables and feature that only high correlated as independent variables to see the difference of value accuracy.
 
 ![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project2.png)
+
+
+# [Project 3: Prediction Using Decision Tree Classification](https://github.com/NajihaAmira/DecisionTreeClassification)
+1) Read the data that contain 200 data with 6 attributes which is Age, sex, BP, Cholesterol, Na_to_K and Drug
+2) Understand the data by using info() method, describe the data
+3) Proceed with data pre-processing include cleaning the data, checking is there any null value and more
+4) Build the model and do evaluation using classification decision tree
+
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project3.png)
