@@ -33,5 +33,4 @@ Amira's data science project portfolio. To explore a specific project in more de
 # [Project 4: Image To Text](https://github.com/NajihaAmira/ImageToText)
 1) This project will read the text from image.
 
-
-![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project3.png)
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project4.png)
