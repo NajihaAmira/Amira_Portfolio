@@ -42,3 +42,9 @@ Amira's data science project portfolio. To explore a specific project in more de
 3) Also, in this project we will use pickle library to save the object python into file
    
 ![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project5.png)
+
+# [Project 6: KNN Social Network](https://github.com/NajihaAmira/KNNSocialNetwork)
+1) This project is about identify social network
+2) There are five attributes which are User ID, Purchase, Gender, Age and Estimated Salary.
+   
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project6.png)
