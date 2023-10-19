@@ -41,4 +41,4 @@ Amira's data science project portfolio. To explore a specific project in more de
 2) Then, after identify the email spam, the email will convert to wordcloud to display the most frequent word  
 3) Also, in this project we will use pickle library to save the object python into file
    
-![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/Screenshot 2023-10-19 092752.png)
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project5.png)
