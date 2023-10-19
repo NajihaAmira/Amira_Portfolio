@@ -39,5 +39,6 @@ Amira's data science project portfolio. To explore a specific project in more de
 # [Project 5: Email Spam Classifier](https://github.com/NajihaAmira/EmailSpamClassifier)
 1) This project is about identify the email spam.
 2) Then, after identify the email spam, the email will convert to wordcloud to display the most frequent word  
-
-![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project4.png)
+3) Also, in this project we will use pickle library to save the object python into file
+   
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/Screenshot 2023-10-19 092752.png)
