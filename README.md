@@ -34,3 +34,10 @@ Amira's data science project portfolio. To explore a specific project in more de
 1) This project will read the text from image.
 
 ![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project4.png)
+
+
+# [Project 5: Email Spam Classifier](https://github.com/NajihaAmira/EmailSpamClassifier)
+1) This project is about identify the email spam.
+2) Then, after identify the email spam, the email will convert to wordcloud to display the most frequent word  
+
+![](https://github.com/NajihaAmira/My_Portfolio_Data_Science/blob/main/images/project4.png)
